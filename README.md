@@ -3,4 +3,4 @@
 - 🔭 I’m currently working on a statistics/data science major
 - 🌱 I’m currently learning python & R
 - 📫 How to reach me: brycemartin52@gmail.com
-- 🦇 Fun fact: I'm a board game and batman fanatic
+- 🦇 I'm a board game and batman fanatic
