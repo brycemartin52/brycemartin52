@@ -1,4 +1,6 @@
-### Hi there 👋
+```{python}
+print("Hi there 👋")
+```
 
 - 🔭 I’m currently working on a statistics/data science major
 - 🌱 I’m currently learning python, c++, & R
